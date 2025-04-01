@@ -1,4 +1,8 @@
 title: Stellar Beats
 description: A music app website showcasing our project
-baseurl: ""
-url: "http://localhost:4000"
+baseurl: "/Stellar-Beats"
+url: "https://f-osss.github.io/Stellar-Beats/"
+
+theme: minima
+plugins:
+  - jekyll-feed

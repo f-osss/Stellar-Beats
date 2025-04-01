@@ -1,4 +1,5 @@
-/* Basic reset and typography */
+@import "{{ site.theme }}";
+
 body {
     font-family: 'Sarabun', sans-serif;
     margin: 0;

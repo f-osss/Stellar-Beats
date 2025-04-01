@@ -15,7 +15,7 @@ Start the Jekyll server with:
 ```sh
 bundle exec jekyll serve
 ```
-This will start a local server, and you can access the site at `http://localhost:4000`.
+This will start a local server, and you can access the site at `http://localhost:4000/Stellar-Beats/`.
 
 Anyone who clones the repository can simply run:
 ```sh

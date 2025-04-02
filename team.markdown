@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Our Team
+permalink: /team/
 ---
 
 <link rel="stylesheet" href="{{ '/team.css' | relative_url }}">

@@ -4,7 +4,7 @@ title: Our Postmortem
 permalink: /postmortem/
 ---
 
-### How did the project change
+### How did the project change?
 - In iteration 0 we completed the initial vision and features that we wanted to implement for our app. After completing iteration 3, the vision for our app has not changed. The project development did change during iteration 2, where one user story was not completed and was moved to iteration 3. However, it was completed in iteration 3 as planned.
 
 

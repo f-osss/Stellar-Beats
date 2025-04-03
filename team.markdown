@@ -23,5 +23,8 @@ permalink: /team/
     <hr>
 
     <h3>Victor Nnah</h3>
-    <p>...</p>
+    <p>
+        I learned how to develop efficient database solutions and how to work with a team to build a successful project. 
+        I also learned how to design logical/persistent layers that encapsulate functionality, such as data access and business logic, to ensure that the application is maintainable and scalable.
+    </p>
 </div>

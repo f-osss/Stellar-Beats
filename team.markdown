@@ -19,7 +19,7 @@ permalink: /team/
     <hr>
 
     <h3>Maya Djuric</h3>
-    <p>...</p>
+    <p>I learned effective techniques for good developmental design and how to implement them. Additionally, I gained experience working with a group on a larger project.</p>
     <hr>
 
     <h3>Victor Nnah</h3>
